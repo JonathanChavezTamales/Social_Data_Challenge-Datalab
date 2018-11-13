@@ -30,6 +30,10 @@ Análisis de gases de efecto invernadero en Guadalajara, sus causas y consecuenc
 
 
 
+## Instalación
+* Instalar dependencias y de preferencia Anaconda, las librerías se encuentran en `requirements.txt`.
+
+
 ## Equipo
 
 * Jonathan de Jesús Chávez Tabares
